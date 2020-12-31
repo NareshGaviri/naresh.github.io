@@ -57,10 +57,10 @@ div.imageborder {
   margin-top: 50px;
 }
 img {
-  border-radius: 999em;
-  height: 100%;
-  width: 100%;
-  margin: 0;
+  border-radius: 1079em;
+  height: 0%;
+  width: 15%;
+  margin: 57px;
 }
 
 h1 {
@@ -95,11 +95,9 @@ main section:not(:last-child) {
   margin: 5px;
   text-align: center;
 }
-
 a .fab {
   color: white;
 }
-
 .course,
 .skills {
   display: -ms-flexbox;
